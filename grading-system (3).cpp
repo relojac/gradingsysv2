@@ -1,12 +1,3 @@
-/*
-    i felt the one i made for school a few years ago didn't meet my current standards
-    so i rewrote the entire thing (for a 5 minute code challenge)
-    but here's the challenge; i did this on a phone. without an ide
-    i won't know if there are errors or bugs and shit unless i get someone to compile this and run it
-    so yeah i only have one shot basically OneShot reference
-    i forgot what the fuck half of these actually did
-*/
-
 // WIRES //
 #include <iostream> // literally everything
 #include <cmath> // round() blah blah blah
